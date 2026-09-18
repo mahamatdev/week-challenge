@@ -17,3 +17,14 @@ h2 {
 .link a {
     text-decoration: none;
 }
+
+footer{
+    background-color: rgb(136, 244, 244);
+    color: rgb(57, 57, 58);
+    text-align: center;
+    padding: 30px;
+    margin-top: 0 10px;
+}
+footer a:hover {
+    text-decoration-line: underline;
+}
