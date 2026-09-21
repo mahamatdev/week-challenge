@@ -24,8 +24,14 @@ footer{
     color: rgb(57, 57, 58);
     text-align: center;
     padding: 30px;
-    margin-top: 0 10px;
+    margin-top: 270px;
+    
 }
-footer a:hover {
-    text-decoration-line: underline;
+.foot  a{
+    text-decoration: none;
+   
 }
+.foot {
+    gap: 20px;
+}
+
